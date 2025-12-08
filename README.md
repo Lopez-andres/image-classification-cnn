@@ -29,8 +29,8 @@ The project includes:
 ## 🚀 Quick Setup
 ```bash
 # 1. Clone repository
-git clone https://github.com/Lopez-andres/entrega-final.git
-cd entrega-final
+git clone https://github.com/Lopez-andres/image-classification-cnn.git
+cd image-classification-cnn
 
 # 2. Create virtual environment (Anaconda)
 conda create -n wonders_project python=3.10
